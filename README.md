@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Python-brown?style=for-the-badge&logo=python&logoColor=white" alt="python Badge"/>
   </a>
   <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
+    <img src="https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge"/>
   </a>
   <a href="https://jupyter.org/">
     <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
