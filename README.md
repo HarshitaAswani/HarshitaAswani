@@ -54,11 +54,11 @@
   <a href="https://scikit-learn.org/stable/">
     <img src="https://img.shields.io/badge/Scikit-violet?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn Badge"/>
   </a>
-  <a href="https://seaborn.pydata.org/">
-    <img src="https://img.shields.io/badge/Seaborn-indigo?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
+  <a href="https://scipy.org/">
+    <img src="https://img.shields.io/badge/SciPy-indigo?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy Badge"/>
   </a>
-  <a href="https://matplotlib.org/">
-    <img src="https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
+  <a href="https://plotly.com/">
+    <img src="https://img.shields.io/badge/Plotly-blue?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge"/>
   </a>
 </div>
 
