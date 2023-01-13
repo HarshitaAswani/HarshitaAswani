@@ -25,6 +25,34 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/harshita-aswani-data-scientist/">
+    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="python Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/harshitaaswani">
+    <img src="https://img.shields.io/badge/Kaggle-pink?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshita-aswani-data-scientist/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/harshitaaswani">
+    <img src="https://img.shields.io/badge/Kaggle-pink?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshita-aswani-data-scientist/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/harshitaaswani">
+    <img src="https://img.shields.io/badge/Kaggle-pink?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshita-aswani-data-scientist/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/harshitaaswani">
+    <img src="https://img.shields.io/badge/Kaggle-pink?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
+  </a>
+</div>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
