@@ -31,13 +31,13 @@
     <img src="https://img.shields.io/badge/Python-brown?style=for-the-badge&logo=python&logoColor=white" alt="python Badge"/>
   </a>
   <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge"/>
+    <img src="https://img.shields.io/badge/sql-grey?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge"/>
   </a>
   <a href="https://jupyter.org/">
     <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
   </a>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel">
-    <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=excel&logoColor=white" alt="Excel Badge"/>
+    <img src="https://img.shields.io/badge/excel-green?style=for-the-badge&logo=excel&logoColor=white" alt="Excel Badge"/>
   </a>
   <a href="https://www.tableau.com/products/public">
     <img src="https://img.shields.io/badge/Tableau-purple?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
