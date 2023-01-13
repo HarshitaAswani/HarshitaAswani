@@ -21,9 +21,6 @@
 - 💞️ I’m looking forward to work as a Data Scientist in future
 - 📫 I’m always ready to collaborate for a data science project
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width="150"/>
-</div>
 
 ---
 
