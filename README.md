@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/bfH6YVw4cCnefkI9EU/giphy.gif" width="200"/>
-</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/harshita-aswani-data-scientist/">
