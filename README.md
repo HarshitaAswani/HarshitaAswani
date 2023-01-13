@@ -46,19 +46,19 @@
     <img src="https://img.shields.io/badge/OpenCV-yellow?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/>
   </a>
   <a href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/Numpy-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/>
+    <img src="https://img.shields.io/badge/Numpy-red?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/>
   </a>
   <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
+    <img src="https://img.shields.io/badge/Pandas-cyan?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
   </a>
   <a href="https://scikit-learn.org/stable/">
-    <img src="https://img.shields.io/badge/Scikit-yellow?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn Badge"/>
+    <img src="https://img.shields.io/badge/Scikit-violet?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn Badge"/>
   </a>
   <a href="https://seaborn.pydata.org/">
-    <img src="https://img.shields.io/badge/Seaborn-orange?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
+    <img src="https://img.shields.io/badge/Seaborn-indigo?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
   </a>
   <a href="https://matplotlib.org/">
-    <img src="https://img.shields.io/badge/Matplotlib-purple?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
+    <img src="https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
   </a>
 </div>
 
