@@ -39,17 +39,26 @@
   <a href="https://www.tableau.com/products/public">
     <img src="https://img.shields.io/badge/Tableau-purple?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Excel-brown?style=for-the-badge&logo=MicrosoftExcel&logoColor=white" alt="Excel Badge"/>
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel">
+    <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=MicrosoftExcel&logoColor=white" alt="Excel Badge"/>
   </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge"/>
+  <a href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-yellow?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/>
   </a>
-  <a href="https://jupyter.org/">
-    <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
+  <a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/Numpy-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="Jupyter Badge"/>
   </a>
-  <a href="https://www.tableau.com/products/public">
-    <img src="https://img.shields.io/badge/Tableau-purple?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas&logoColor=white" alt="Tableau Badge"/>
+  </a>
+  <a href="https://scikit-learn.org/stable/">
+    <img src="https://img.shields.io/badge/Scikit-learn-yellow?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="OpenCV Badge"/>
+  </a>
+  <a href="https://seaborn.pydata.org/">
+    <img src="https://img.shields.io/badge/Seaborn-orange?style=for-the-badge&logo=seaborn&logoColor=white" alt="Jupyter Badge"/>
+  </a>
+  <a href="https://matplotlib.org/">
+    <img src="https://img.shields.io/badge/Matplotlib-purple?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Tableau Badge"/>
   </a>
 </div>
 
