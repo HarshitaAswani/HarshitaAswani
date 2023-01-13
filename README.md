@@ -36,24 +36,9 @@
   <a href="https://jupyter.org/">
     <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
   </a>
-  <a href="https://www.microsoft.com/en-in/microsoft-365/excel">
-    <img src="https://img.shields.io/badge/Excel365-green?style=for-the-badge&logo=excel365&logoColor=white" alt="Excel Badge"/>
-  </a>
   <a href="https://www.tableau.com/products/public">
     <img src="https://img.shields.io/badge/Tableau-purple?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
   </a>
-</div>
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4"  title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://scipy.org/images/logo.svg" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>
 </div>
 
 <!---
