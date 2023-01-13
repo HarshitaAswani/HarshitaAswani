@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
   </a>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel">
-    <img src="https://img.shields.io/badge/excel-green?style=for-the-badge&logo=excel&logoColor=white" alt="Excel Badge"/>
+    <img src="https://img.shields.io/badge/Excel365-green?style=for-the-badge&logo=excel365&logoColor=white" alt="Excel Badge"/>
   </a>
   <a href="https://www.tableau.com/products/public">
     <img src="https://img.shields.io/badge/Tableau-purple?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
