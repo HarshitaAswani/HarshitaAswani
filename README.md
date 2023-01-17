@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/Tensorflow-blue?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow Badge"/>
   </a>
   <a href="https://keras.io/">
-    <img src="https://img.shields.io/badge/Keras-pink?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge"/>
+    <img src="https://img.shields.io/badge/Keras-magenta?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge"/>
   </a>
 </div>
 
