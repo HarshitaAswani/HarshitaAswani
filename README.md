@@ -57,8 +57,11 @@
   <a href="https://scipy.org/">
     <img src="https://img.shields.io/badge/SciPy-indigo?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy Badge"/>
   </a>
-  <a href="https://plotly.com/">
-    <img src="https://img.shields.io/badge/Plotly-blue?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge"/>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/Tensorflow-blue?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow Badge"/>
+  </a>
+  <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-pink?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge"/>
   </a>
 </div>
 
