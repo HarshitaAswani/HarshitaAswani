@@ -16,10 +16,10 @@
 </h1>
 
 - 👋 I’m @HarshitaAswani
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking forward to work as a Data Scientist in future
-- 📫 I’m always ready to collaborate for a data science project
+- 👀 I’m interested in Data Science and analytics
+- 🌱 I’m currently working at a service based fintech startup
+- 💞️ I’m looking forward to upskill myself
+- 📫 I’m always ready to collaborate for a data analytics project
 
 
 ---
@@ -42,9 +42,6 @@
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel">
     <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=MicrosoftExcel&logoColor=white" alt="Excel Badge"/>
   </a>
-  <a href="https://opencv.org/">
-    <img src="https://img.shields.io/badge/OpenCV-yellow?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/>
-  </a>
   <a href="https://numpy.org/">
     <img src="https://img.shields.io/badge/Numpy-red?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/>
   </a>
@@ -56,12 +53,6 @@
   </a>
   <a href="https://scipy.org/">
     <img src="https://img.shields.io/badge/SciPy-indigo?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy Badge"/>
-  </a>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://img.shields.io/badge/Tensorflow-blue?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow Badge"/>
-  </a>
-  <a href="https://keras.io/">
-    <img src="https://img.shields.io/badge/Keras-magenta?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge"/>
   </a>
 </div>
 
